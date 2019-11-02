@@ -114,3 +114,5 @@ srg_clean %>%
   amce(formula = news ~ s_party + t_party + s_race + t_race) %>% 
   plot()
 ```
+
+![AMCE](How-to-Reshape-Conjoint-Data_files/figure-html/AMCE.png)
