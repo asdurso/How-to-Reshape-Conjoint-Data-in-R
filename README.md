@@ -13,6 +13,8 @@ This conjoint was programmed by Gubitz in Qualtrics, using survey flow and pipe 
 ### Load Packages 
 
 ```{r load packages}
+## Make sure you're using r 
+## ```{r}
 ## Load packages 
 library(tidyverse)
 library(cjoint)
