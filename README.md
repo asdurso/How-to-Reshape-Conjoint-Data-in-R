@@ -6,7 +6,7 @@ This repository serves as an R tutorial for how to take survey data (from Qualtr
 ### The Data
 The data are from a study on incivility by S.R. Gubitz. The simulated data are available for practice in this repository. I will keep this repository updated with the status of this paper as it progresses through the publication pipeline. 
 <br><br>
-This conjoint was programmed by Gubitz in Qualtrics, using survey flow and pipe-text in order to create a conjoint design. This is not a force-choice conjoint design, but the reshaping process is similar.
+This conjoint was programmed by Gubitz in Qualtrics, using survey flow and pipe-text in order to create a conjoint design. **This is not a force-choice conjoint design, but the reshaping process is similar.**
 
 ## Set-up 
 
